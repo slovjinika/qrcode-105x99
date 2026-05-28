@@ -1,4 +1,4 @@
-![image](qrcode-105x99-20260528.jpg)
+![image](qrcode-105x99-rotate-20260528.jpg)
 
 ## A4 sticker sheet generator (6 stickers per sheet — 105×99 mm blocks)
 
@@ -31,3 +31,5 @@ Output: print/labels_a4.pdf
 Notes
 - Adjust QR_SCALE_FACTOR or TEXT_ZONE_RATIO to change QR/text balance.
 - Margins and BOTTOM_ROW_SHIFT_MM tuned for typical printers — tweak if needed.
+
+![image](qrcode-105x99-20260528.jpg)
