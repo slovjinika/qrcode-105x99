@@ -1,5 +1,7 @@
 ![image](qrcode-105x99-rotate-20260528.jpg)
 
+Генеруйте стікери для інвентаризації, використовуючи самоклейний папір для ТТН (А4, 105х99 мм)
+
 ## A4 sticker sheet generator (6 stickers per sheet — 105×99 mm blocks)
 
 Short README — generates printable PDF for self-adhesive paper with 6 sticker blocks (block size 105×99 mm) containing QR and numeric label.
@@ -22,7 +24,7 @@ Quick setup
 2. Edit START_NUM / END_NUM as needed.
 3. Run:
 ```bash
-python3 generate_labels.py
+python3 105x99-gen-qrcode-rotate.py
 ```
 Output: print/labels_a4.pdf
 
