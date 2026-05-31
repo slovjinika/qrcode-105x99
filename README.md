@@ -1,5 +1,5 @@
 ![image](105x99-gen-qrcode-rotate.jpg)
-
+![image](105x99-gen-qrcode-54.jpg)
 Генеруйте стікери для інвентаризації, використовуючи самоклейний папір для ТТН (А4, 105х99 мм)
 
 ## A4 sticker sheet generator (6 stickers per sheet — 105×99 mm blocks)
