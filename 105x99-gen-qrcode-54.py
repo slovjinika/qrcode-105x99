@@ -182,7 +182,6 @@ for idx, text in enumerate(data_list):
     sticker_x = int(block_left + (margin_x_mm * MM_TO_PX) + (sx * (ROTATED_STICKER_W + GAP_X_MM * MM_TO_PX)))
     sticker_y = int(block_top + (margin_y_mm * MM_TO_PX) + (sy * (ROTATED_STICKER_H + GAP_Y_MM * MM_TO_PX)))
     
-    # Применение индивидуального смещения в зависимости от строки блоков (by: 0, 1 или 2)
     if by == 0:
         sticker_y -= int(ROW_1_SHIFT_MM * MM_TO_PX)
     elif by == 1:
